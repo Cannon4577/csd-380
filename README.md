@@ -1,2 +1,5 @@
-# csd-380
-DevOps Repository
+# CSD 380 DevOps
+
+## Contributors
+- Professor Darrell Payne
+- Cannon Rivera
